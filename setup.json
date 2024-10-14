@@ -1,0 +1,14 @@
+{
+    "current_profile": "testnet",
+    "profiles": [
+       {
+            "name": "testnet",
+            "node": "https://testnet-api.algonode.cloud",
+            "app_id": "",
+            "address": "",
+            "mnemonic": "",
+            "private_key": "",
+            "access_token": ""
+        }
+    ]
+}
